@@ -1,0 +1,56 @@
+.navbar {
+  background-color: #11bbcc;
+  border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+#nav-list a {
+  background-color: #11bbcc;
+  color: #123abc;
+  text-align: center;
+  border-top: 1px solid black;
+}
+
+.jumbotron h1 {
+  text-align: center;
+  font-size: 1.5em;
+  color: #123abc;
+}
+
+#subtitle {
+  text-align: center;
+  font-weight: bold;
+  background-color:  #33ff22;
+}
+
+#menu {
+  border: 1px solid #61122f;
+  background-color:  #33ff22;
+}
+
+.col-xs-12 {
+  position: relative;
+  min-height: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  float: left;
+}
+
+.row {
+  position: relative;
+  min-height: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  float: left;
+}
