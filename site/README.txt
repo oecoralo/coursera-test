@@ -1,1 +1,1 @@
-This lecture did not contain any coding examples. See video.
+There is no code corresponding to this lecture. Please see the video and possible slides.
